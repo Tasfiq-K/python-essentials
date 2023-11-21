@@ -1,0 +1,1 @@
+temperature = 25 # temperature is the variable name and 25 is its value.
